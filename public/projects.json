@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "UBC Campus Explorer",
+      "category": "Full Stack Development",
+      "image": "images/Campus.png"
+    },
+    {
+      "id": 2,
+      "title": "Warehouse Management System",
+      "category": "Backend Engineering",
+      "image": "images/warehouse.png"
+    },
+    {
+      "id": 3,
+      "title": "Clariti (Chrome Extension)",
+      "category": "Frontend Development",
+      "image": "images/chrome.png"
+    }
+  ]
+  
