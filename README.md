@@ -1,3 +1,3 @@
 
-# build-portfolio-website-react-css
+# Edmond Ye Portfolio
 ![](/src/assets/github-cover.png)
