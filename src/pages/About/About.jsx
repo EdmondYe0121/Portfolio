@@ -6,22 +6,22 @@ import Service from "./Service";
 
 const servicesData = [
   {
-    icon: "/images/icon-dev.svg",
+    icon: `${import.meta.env.BASE_URL}/images/icon-dev.svg`,
     title: "Full Stack Development",
     description: "Building scalable web applications using React, Node.js, and Spring Boot with secure backend APIs and responsive frontends."
   },
   {
-    icon: "/images/cloud-computing.png",
+    icon: `${import.meta.env.BASE_URL}images/cloud-computing.png`,
     title: "Cloud Infrastructure",
     description: "Deploying and maintaining applications using AWS (EC2, Lambda, S3, RDS) and Docker for scalable and reliable performance."
   },
   {
-    icon: "/images/integration.png",
+    icon: `${import.meta.env.BASE_URL}images/integration.png`,
     title: "Database & API Engineering",
     description: "Designing efficient MySQL and MongoDB databases with optimized queries, stored procedures, and RESTful API integrations."
   },
   {
-    icon: "/images/settings.png",
+    icon: `${import.meta.env.BASE_URL}images/settings.png`,
     title: "Automation",
     description: "Automating hardware imaging and device deployment using PowerShell, managing asset tracking systems, and supporting large-scale IT operations."
   }

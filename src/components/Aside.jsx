@@ -6,14 +6,14 @@ const Aside = () => {
         <div className="sidebar-info">
           <figure className="avatar-box">
             <img
-              src={"/images/selfie.jpeg"}
-              alt="Richard hanrick"
+              src={"./images/selfie.jpeg"}
+              alt="Edmond Ye"
               width="80"
             />
           </figure>
 
           <div className="info-content">
-            <h1 className="name" title="Richard hanrick">
+            <h1 className="name" title="Edmond Ye">
               Edmond Ye
             </h1>
 
