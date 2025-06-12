@@ -45,18 +45,16 @@ const Resume = () => {
         </div>
         <ol className="timeline-list">
           <TimelineItem
-            title="Technical Support Engineer @ Microserve"
-            date="2024.8 — 2024.12"
-            description={
-              <>
-                <ul>
-                  <li>Implemented an automated asset tracking system using MySQL to monitor 5,000+ devices, flagging 50–60 redundancies monthly for recovery.</li><br />
-                  <li>Developed Java Spring REST API to identify duplicate devices and schedule equipment returns, integrated Canada Post API for shipping labels.</li><br />
-                  <li>Built AWS-based asset recovery system with Lambda, RDS, SES, Step Functions, and API Gateway, achieving 99.9% uptime and 50% reduction in manual work.</li><br />
-                  <li>Used Redis caching to speed up device data lookups, reducing API latency from 200ms to 20ms and easing database load during peak usage.</li>
-                </ul>
-              </>
-            }
+            title="Software Engineering Internship @ Integral Pivots"
+            date="Since 2025.5"
+          />
+          <TimelineItem
+            title="Software Developer Co-op @ Microserve"
+            date="2024.9 — 2024.12"
+          />
+          <TimelineItem
+            title="Software Developer Co-op @ China Telecom"
+            date="2024.5 — 2024.8"
           />
         </ol>
       </div>
